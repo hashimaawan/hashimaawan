@@ -1,4 +1,4 @@
-![image](https://github.com/hashimaawan/hashimaawan/assets/156606875/f224e59d-fc1b-46af-8d9e-c704b39dd562)<h1 align="center">Hello 👋, I'm Hashim Awan</h1>
+![image](https://github.com/hashimaawan/hashimaawan/assets/156606875/f224e59d-fc1b-46af-8d9e-c704b39dd562)<h1 align="center">Hi there, I'm Hashim Awan</h1>
 <h3 align="center">Coding passion, future analyst.</h3>
 <img align = "right" alt="coding"width="400" src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFjYTNubGZmcmdzbW80Y2V3aHlqeG5lOThzNzNkNnJ5dGNsenlyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
@@ -8,15 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/hashim awan" target="blank"><img src="https://img.shields.io/twitter/follow/hashim awan?logo=twitter&style=for-the-badge" alt="hashim awan" /></a> </p>
 
-- 🌱 I’m currently learning **Data cleaning, analysis**
+- 🌱 I’m currently learning **Data cleaning, analysis and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hashimaawan](https://github.com/hashimaawan)
 
-- 💬 Ask me about **data analysis**
+- 💬 Ask me about **data analysis, Machine learning**
 
 - 📫 How to reach me **awanhashim800@gmail.com**
 
-- ⚡ Fun fact **Crazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
