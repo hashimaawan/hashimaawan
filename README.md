@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Hashim Awan</h1>
-<h3 align="center">Coding passion, future analyst.</h3>
+<h2 align="center">Coding passion, future analyst.</h2>
 <br>
 <img align = "right" alt="coding"width="400" src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFjYTNubGZmcmdzbW80Y2V3aHlqeG5lOThzNzNkNnJ5dGNsenlyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
