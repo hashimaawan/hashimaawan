@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/hashim awan" target="blank"><img src="https://img.shields.io/twitter/follow/hashim awan?logo=twitter&style=for-the-badge" alt="hashim awan" /></a> </p>
 <br>
 
-- 🌱 I’m currently learning **Data cleaning, analysis and Machine Learning**
+- 🌱 I’m currently learning **DevOps and Agentic Ai**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hashimaawan](https://github.com/hashimaawan)
 
